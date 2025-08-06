@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Villa Toscana - Autentico Ristorante Italiano</title>
+    <meta name="description"
+        content="Villa Toscana - Autentico ristorante italiano con pizze, antipasti e dolci tradizionali" />
+    <meta name="author" content="Villa Toscana" />
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+      <div class="lang-switcher" aria-label="Language selector">
+    <button data-lang="it" aria-label="Italiano">🇮🇹 IT</button>
+    <button data-lang="en" aria-label="English">🇬🇧 EN</button>
+    <button data-lang="pt" aria-label="Português">🇵🇹 PT</button>
+    <button data-lang="es" aria-label="Español">🇪🇸 ES</button>
+    <button data-lang="fr" aria-label="Français">🇫🇷 FR</button>
+  </div>
+
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+
+            <div class="container">
+                <h1 class="title" data-i18n="brand.name">Villa Toscana</h1>
+                <p class="subtitle" data-i18n="hero.title">Autentico Ristorante Italiano</p>
+                <p class="tagline" data-i18n="hero.subtitle">Tradizione e Sapore dal Cuore della Toscana</p>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <!-- Sezione Pizze -->
+            <section class="section">
+                <div class="section-header">
+                    <div class="section-title-container">
+                        <svg class="section-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
+                            height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" aria-hidden="true">
+                            <!-- fetta con crosta curva -->
+                            <path d="M3 6C9 2 15 2 21 6L12 21 3 6Z" />
+                            <!-- crosta -->
+                            <path d="M4 7C9.2 3.8 14.8 3.8 20 7" />
+                            <!-- “pepperoni” -->
+                            <circle cx="9" cy="12" r="1.3" fill="currentColor" stroke="none" />
+                            <circle cx="14.5" cy="10" r="1.1" fill="currentColor" stroke="none" />
+                            <circle cx="12.5" cy="15.5" r="1.2" fill="currentColor" stroke="none" />
+                        </svg>
+
+                        <h2 class="section-title" data-i18n="sections.menu.pizzas.title">Le Nostre Pizze</h2>
+                    </div>
+                    <p class="section-description" data-i18n="sections.menu.pizzas.subtitle">
+                        Pizze preparate con impasto a lievitazione naturale e ingredienti di prima qualità
+                    </p>
+                </div>
+                <div class="menu-grid" id="pizzas-grid">
+                    <!-- Le pizze verranno inserite qui tramite JavaScript -->
+                </div>
+            </section>
+
+            <!-- Sezione Antipasti -->
+            <section class="section">
+                <div class="section-header">
+                    <div class="section-title-container">
+                        <svg class="section-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
+                            height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" aria-hidden="true">
+                            <g transform="translate(0 -3.5)">
+                                <!-- bowl -->
+                                <path d="M3 13c0 4 4.5 8 9 8s9-4 9-8" />
+                                <path d="M3 13h18" />
+
+                                <!-- pomodorini distanziati -->
+                                <circle cx="6.8" cy="11.2" r="1.4" fill="currentColor" stroke="none" />
+                                <circle cx="9.8" cy="10.6" r="1.1" fill="currentColor" stroke="none" />
+                                <circle cx="12.0" cy="11.8" r="1.3" fill="currentColor" stroke="none" />
+                                <circle cx="14.6" cy="10.9" r="1.0" fill="currentColor" stroke="none" />
+                                <circle cx="17.2" cy="11.6" r="1.2" fill="currentColor" stroke="none" />
+                            </g>
+                        </svg>
+
+                        <h2 class="section-title" data-i18n="sections.menu.antipasti.title">Antipasti e Insalate</h2>
+                    </div>
+                    <p class="section-description" data-i18n="sections.menu.antipasti.subtitle">
+                        Fresche insalate e antipasti preparati con ingredienti locali di stagione
+                    </p>
+                </div>
+
+                <div class="menu-grid" id="antipasti-grid">
+                    <!-- Gli antipasti verranno inseriti qui tramite JavaScript -->
+                </div>
+            </section>
+
+            <!-- Sezione Dolci -->
+            <section class="section">
+                <div class="section-header">
+                    <div class="section-title-container">
+                        <svg class="section-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
+                            height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" aria-hidden="true">
+                            <!-- palline alzate in blocco, con le due sotto più separate -->
+                            <circle cx="9.4" cy="9.2" r="2.2" />
+                            <circle cx="14.6" cy="9.2" r="2.2" />
+                            <circle cx="12" cy="5.2" r="2.2" />
+                            <!-- cono -->
+                            <path d="M9 12L12 21L15 12Z" />
+                        </svg>
+                        <h2 class="section-title" data-i18n="sections.menu.dolci.title">Dolci</h2>
+                    </div>
+                    <p class="section-description" data-i18n="sections.menu.dolci.subtitle">
+                        Dolci italiani preparati secondo le ricette tradizionali della nonna
+                    </p>
+                </div>
+                <div class="menu-grid" id="dolci-grid">
+                    <!-- I dolci verranno inseriti qui tramite JavaScript -->
+                </div>
+            </section>
+
+            <!-- Sezione Bevande -->
+            <section class="section">
+                <div class="section-header">
+                    <div class="section-title-container">
+                        <svg class="section-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24"
+                            height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                            stroke-linejoin="round" aria-hidden="true">
+                            <!-- coppa chiusa con arco -->
+                            <path d="M5 3h14a7 7 0 0 1 -14 0Z" />
+                            <!-- stelo collegato alla base -->
+                            <path d="M12 10V21" />
+                            <!-- base -->
+                            <path d="M8 21h8" />
+                        </svg>
+                        <h2 class="section-title" data-i18n="sections.drinks.title">Bevande</h2>
+                    </div>
+                    <p class="section-description" data-i18n="sections.drinks.subtitle">
+                        Selezione di vini, birre e bevande per accompagnare i nostri piatti
+                    </p>
+                </div>
+
+                <div class="drinks-grid">
+                    <div class="drink-category">
+                        <div class="drink-header">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="drink-icon" viewBox="0 0 24 24" width="24"
+                                height="24" fill="none" stroke="currentColor" stroke-width="2">
+                                <g transform="translate(1.5 0.5)">
+                                    <path d="M17 8h1a4 4 0 1 1 0 8h-1" />
+                                    <path d="M3 8h14v9a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V8z" />
+                                    <line x1="6" y1="2" x2="6" y2="8" />
+                                    <line x1="10" y1="2" x2="10" y2="8" />
+                                    <line x1="14" y1="2" x2="14" y2="8" />
+                                </g>
+                            </svg>
+
+                            <h3 class="drink-title" data-i18n="sections.drinks.caffetteria.title">Caffetteria</h3>
+                        </div>
+                        <div class="drink-list" id="caffetteria-list">
+                            <!-- Caffetteria items -->
+                        </div>
+                    </div>
+
+                    <div class="drink-category">
+                        <div class="drink-header">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="drink-icon" viewBox="0 0 24 24" width="24"
+                                height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" aria-hidden="true">
+                                <!-- tappo -->
+                                <rect x="10" y="2" width="4" height="2" />
+                                <!-- collo -->
+                                <path d="M11 4V6M13 4V6" />
+                                <!-- corpo della bottiglia -->
+                                <path
+                                    d="M9 6H15C16 7 16 8 16 9V16C16 18.2 14.2 20 12 20C9.8 20 8 18.2 8 16V9C8 8 8 7 9 6Z" />
+                                <!-- etichetta -->
+                                <path d="M8 12H16" />
+                            </svg>
+
+
+                            <h3 class="drink-title" data-i18n="sections.drinks.bibite.title">Bibite e Acqua</h3>
+                        </div>
+                        <div class="drink-list" id="bibite-list">
+                            <!-- Bibite items -->
+                        </div>
+                    </div>
+
+                    <div class="drink-category">
+                        <div class="drink-header">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="drink-icon" viewBox="0 0 24 24" width="24"
+                                height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                stroke-linejoin="round" aria-hidden="true">
+                                <g transform="translate(0,-2.5)">
+                                    <!-- bordo superiore -->
+                                    <path d="M5 7h10" />
+                                    <!-- corpo più lungo -->
+                                    <path d="M5 7v15h10V7" />
+                                    <!-- manico (identico) -->
+                                    <path d="M15 9h2a2 2 0 0 1 0 10h-2" />
+                                </g>
+                            </svg>
+
+
+                            <h3 class="drink-title" data-i18n="sections.drinks.birre.title">Birre</h3>
+                        </div>
+                        <div class="drink-list" id="birre-list">
+                            <!-- Birre items -->
+                        </div>
+                    </div>
+
+                    <div class="drink-category">
+                        <div class="drink-header">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="drink-icon" viewBox="0 0 24 24" width="24"
+                                height="24" fill="none" stroke="currentColor" stroke-width="2">
+
+                                <g transform="translate(1.5 0.5)">
+                                    aria-hidden="true">
+                                    <path d="M5 3h14a7 7 0 0 1 -14 0Z" />
+                                    <path d="M12 10V21" />
+                                    <path d="M8 21h8" />
+                                </g>
+                            </svg>
+
+                            <h3 class="drink-title" data-i18n="sections.drinks.vini.title">Vini e Liquori</h3>
+                        </div>
+                        <div class="drink-list" id="vini-list">
+                            <!-- Vini items -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <div class="footer-title" data-i18n="footer.brand">Villa Toscana</div>
+            <p class="footer-text" data-i18n="footer.thanks">
+                Grazie per aver scelto la nostra cucina italiana autentica
+            </p>
+            <p class="footer-small" data-i18n="footer.signature">
+                🇮🇹 Made with amore in Italy
+            </p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
