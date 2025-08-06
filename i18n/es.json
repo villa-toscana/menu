@@ -1,0 +1,97 @@
+{
+  "meta.title": "Villa Toscana - Auténtico Restaurante Italiano",
+  "meta.description": "Villa Toscana - Auténtico restaurante italiano con pizzas, antipastos y postres tradicionales",
+
+  "brand.name": "Villa Toscana",
+
+  "hero.title": "Auténtico Restaurante Italiano",
+  "hero.subtitle": "Tradición y sabor desde el corazón de la Toscana",
+
+  "sections.menu.pizzas.title": "Nuestras Pizzas",
+  "sections.menu.pizzas.subtitle": "Pizzas elaboradas con masa de fermentación natural e ingredientes de primera calidad",
+
+  "sections.menu.antipasti.title": "Entrantes e Ensaladas",
+  "sections.menu.antipasti.subtitle": "Ensaladas frescas y entrantes preparados con ingredientes locales de temporada",
+
+  "sections.menu.dolci.title": "Postres Tradicionales",
+  "sections.menu.dolci.subtitle": "Postres italianos elaborados según las recetas tradicionales de la nonna",
+
+  "sections.drinks.title": "Bebidas",
+  "sections.drinks.subtitle": "Selección de vinos, cervezas y bebidas para acompañar nuestros platos",
+  "sections.drinks.caffetteria.title": "Cafetería",
+  "sections.drinks.bibite.title": "Refrescos y Agua",
+  "sections.drinks.birre.title": "Cervezas",
+  "sections.drinks.vini.title": "Vinos y Licores",
+
+  "footer.brand": "Villa Toscana",
+  "footer.thanks": "Gracias por elegir nuestra auténtica cocina italiana",
+  "footer.signature": "🇮🇹 Hecho con amor en Italia",
+
+  "menu.pizzas.pizza_margherita.name": "Pizza Margarita",
+  "menu.pizzas.pizza_margherita.desc": "La clásica pizza italiana con tomate San Marzano, mozzarella de búfala DOP y albahaca fresca",
+
+  "menu.pizzas.pizza_napoletana.name": "Pizza Napolitana",
+  "menu.pizzas.pizza_napoletana.desc": "Auténtica pizza napolitana con bordes altos, tomate, mozzarella de búfala y albahaca",
+
+  "menu.pizzas.pizza_quattro_stagioni.name": "Pizza Cuatro Estaciones",
+  "menu.pizzas.pizza_quattro_stagioni.desc": "Jamón cocido, setas porcini, alcachofas y aceitunas negras con mozzarella",
+
+  "menu.pizzas.pizza_diavola.name": "Pizza Diavola",
+  "menu.pizzas.pizza_diavola.desc": "Salami picante calabrés, mozzarella, tomate y chiles frescos",
+
+  "menu.pizzas.pizza_capricciosa.name": "Pizza Capricciosa",
+  "menu.pizzas.pizza_capricciosa.desc": "Jamón cocido, setas, alcachofas, aceitunas y mozzarella",
+
+  "menu.pizzas.pizza_quattro_formaggi.name": "Pizza Cuatro Quesos",
+  "menu.pizzas.pizza_quattro_formaggi.desc": "Mozzarella, gorgonzola DOP, parmigiano reggiano y fontina",
+
+  "menu.pizzas.pizza_marinara.name": "Pizza Marinara",
+  "menu.pizzas.pizza_marinara.desc": "La más simple y tradicional: tomate, ajo, orégano y aceite de oliva virgen extra",
+
+  "menu.pizzas.pizza_prosciutto_e_funghi.name": "Pizza Jamón y Champiñones",
+  "menu.pizzas.pizza_prosciutto_e_funghi.desc": "Jamón cocido de alta calidad y setas porcini con mozzarella",
+
+  "menu.antipasti.insalata_caprese.name": "Ensalada Caprese",
+  "menu.antipasti.insalata_caprese.desc": "Mozzarella de búfala DOP, tomates maduros, albahaca fresca y aceite de oliva virgen extra toscano",
+
+  "menu.antipasti.insalatona_della_casa.name": "Ensalada de la Casa",
+  "menu.antipasti.insalatona_della_casa.desc": "Mezcla de ensaladas frescas, tomatitos cherry, aceitunas, mozzarella y prosciutto crudo",
+
+  "menu.antipasti.caesar_salad.name": "Ensalada César",
+  "menu.antipasti.caesar_salad.desc": "Lechuga romana, picatostes dorados, parmesano rallado y salsa César",
+
+  "menu.dolci.tiramisu.name": "Tiramisú",
+  "menu.dolci.tiramisu.desc": "El postre italiano por excelencia con bizcochos, mascarpone, café y cacao",
+
+  "menu.dolci.cannoli_siciliani.name": "Cannoli Sicilianos",
+  "menu.dolci.cannoli_siciliani.desc": "Crujientes canutillos rellenos de ricotta dulce y virutas de chocolate",
+
+  "menu.dolci.panna_cotta_ai_frutti_di_bosco.name": "Panna Cotta con Frutos del Bosque",
+  "menu.dolci.panna_cotta_ai_frutti_di_bosco.desc": "Postre cremoso con coulis de frutos del bosque frescos",
+
+  "menu.dolci.gelato_artigianale.name": "Helado Artesanal",
+  "menu.dolci.gelato_artigianale.desc": "Tres bolas de helado artesanal (vainilla, chocolate, pistacho)",
+
+  "drinks.caffetteria.espresso.name": "Espresso",
+  "drinks.caffetteria.cappuccino.name": "Cappuccino",
+  "drinks.caffetteria.caffe_americano.name": "Café Americano",
+  "drinks.caffetteria.macchiato.name": "Macchiato",
+  "drinks.caffetteria.caffe_corretto.name": "Café Corretto",
+
+  "drinks.bibite.coca_cola.name": "Coca-Cola",
+  "drinks.bibite.aranciata_san_pellegrino.name": "San Pellegrino Naranja",
+  "drinks.bibite.limonata_san_pellegrino.name": "San Pellegrino Limón",
+  "drinks.bibite.acqua_naturale_1l.name": "Agua sin gas 1L",
+  "drinks.bibite.acqua_frizzante_1l.name": "Agua con gas 1L",
+
+  "drinks.birre.peroni_nastro_azzurro.name": "Peroni Nastro Azzurro",
+  "drinks.birre.moretti_alla_spina.name": "Moretti de barril",
+  "drinks.birre.corona_extra.name": "Corona Extra",
+  "drinks.birre.birra_artigianale_ipa.name": "Cerveza Artesanal IPA",
+
+  "drinks.vini.chianti_classico_docg_calice.name": "Chianti Classico DOCG (copa)",
+  "drinks.vini.prosecco_di_valdobbiadene_docg.name": "Prosecco di Valdobbiadene DOCG",
+  "drinks.vini.pinot_grigio_delle_venezie_igt.name": "Pinot Grigio delle Venezie IGT",
+  "drinks.vini.sangiovese_di_toscana_igt.name": "Sangiovese di Toscana IGT",
+  "drinks.vini.limoncello_bicchierino.name": "Limoncello (chupito)"
+}

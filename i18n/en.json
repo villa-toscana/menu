@@ -1,0 +1,97 @@
+{
+  "meta.title": "Villa Toscana - Authentic Italian Restaurant",
+  "meta.description": "Villa Toscana - Authentic Italian restaurant with pizzas, appetizers and traditional desserts",
+
+  "brand.name": "Villa Toscana",
+
+  "hero.title": "Authentic Italian Restaurant",
+  "hero.subtitle": "Tradition and Flavour from the Heart of Tuscany",
+
+  "sections.menu.pizzas.title": "Our Pizzas",
+  "sections.menu.pizzas.subtitle": "Pizzas prepared with naturally leavened dough and top-quality ingredients",
+
+  "sections.menu.antipasti.title": "Appetizers & Salads",
+  "sections.menu.antipasti.subtitle": "Fresh salads and appetizers prepared with seasonal local ingredients",
+
+  "sections.menu.dolci.title": "Traditional Desserts",
+  "sections.menu.dolci.subtitle": "Italian desserts made according to grandma’s traditional recipes",
+
+  "sections.drinks.title": "Drinks",
+  "sections.drinks.subtitle": "Selection of wines, beers and beverages to pair with our dishes",
+  "sections.drinks.caffetteria.title": "Coffee",
+  "sections.drinks.bibite.title": "Soft Drinks & Water",
+  "sections.drinks.birre.title": "Beers",
+  "sections.drinks.vini.title": "Wines & Liqueurs",
+
+  "footer.brand": "Villa Toscana",
+  "footer.thanks": "Thanks for choosing our authentic Italian cuisine",
+  "footer.signature": "🇮🇹 Made with love in Italy",
+
+  "menu.pizzas.pizza_margherita.name": "Margherita Pizza",
+  "menu.pizzas.pizza_margherita.desc": "The classic Italian pizza with San Marzano tomatoes, buffalo mozzarella PDO and fresh basil",
+
+  "menu.pizzas.pizza_napoletana.name": "Neapolitan Pizza",
+  "menu.pizzas.pizza_napoletana.desc": "Authentic Neapolitan pizza with high crust, tomato, buffalo mozzarella and basil",
+
+  "menu.pizzas.pizza_quattro_stagioni.name": "Four Seasons Pizza",
+  "menu.pizzas.pizza_quattro_stagioni.desc": "Cooked ham, porcini mushrooms, artichokes and black olives with mozzarella",
+
+  "menu.pizzas.pizza_diavola.name": "Diavola Pizza",
+  "menu.pizzas.pizza_diavola.desc": "Spicy Calabrian salami, mozzarella, tomato and fresh chillies",
+
+  "menu.pizzas.pizza_capricciosa.name": "Capricciosa Pizza",
+  "menu.pizzas.pizza_capricciosa.desc": "Cooked ham, mushrooms, artichokes, olives and mozzarella",
+
+  "menu.pizzas.pizza_quattro_formaggi.name": "Four Cheese Pizza",
+  "menu.pizzas.pizza_quattro_formaggi.desc": "Mozzarella, Gorgonzola PDO, Parmigiano Reggiano and Fontina",
+
+  "menu.pizzas.pizza_marinara.name": "Marinara Pizza",
+  "menu.pizzas.pizza_marinara.desc": "The simplest and most traditional: tomato, garlic, oregano and extra virgin olive oil",
+
+  "menu.pizzas.pizza_prosciutto_e_funghi.name": "Ham & Mushroom Pizza",
+  "menu.pizzas.pizza_prosciutto_e_funghi.desc": "High-quality cooked ham and porcini mushrooms with mozzarella",
+
+  "menu.antipasti.insalata_caprese.name": "Caprese Salad",
+  "menu.antipasti.insalata_caprese.desc": "Buffalo mozzarella PDO, ripe tomatoes, fresh basil and Tuscan extra virgin olive oil",
+
+  "menu.antipasti.insalatona_della_casa.name": "House Mixed Salad",
+  "menu.antipasti.insalatona_della_casa.desc": "Mix of fresh salads, cherry tomatoes, olives, mozzarella and prosciutto crudo",
+
+  "menu.antipasti.caesar_salad.name": "Caesar Salad",
+  "menu.antipasti.caesar_salad.desc": "Romaine lettuce, golden croutons, grated Parmesan and Caesar dressing",
+
+  "menu.dolci.tiramisu.name": "Tiramisu",
+  "menu.dolci.tiramisu.desc": "The quintessential Italian dessert with ladyfingers, mascarpone, coffee and cocoa",
+
+  "menu.dolci.cannoli_siciliani.name": "Sicilian Cannoli",
+  "menu.dolci.cannoli_siciliani.desc": "Crunchy shells filled with sweet ricotta and chocolate chips",
+
+  "menu.dolci.panna_cotta_ai_frutti_di_bosco.name": "Panna Cotta with Berries",
+  "menu.dolci.panna_cotta_ai_frutti_di_bosco.desc": "Creamy dessert with fresh berry coulis",
+
+  "menu.dolci.gelato_artigianale.name": "Artisanal Gelato",
+  "menu.dolci.gelato_artigianale.desc": "Three scoops of artisanal gelato (vanilla, chocolate, pistachio)",
+
+  "drinks.caffetteria.espresso.name": "Espresso",
+  "drinks.caffetteria.cappuccino.name": "Cappuccino",
+  "drinks.caffetteria.caffe_americano.name": "Americano Coffee",
+  "drinks.caffetteria.macchiato.name": "Macchiato",
+  "drinks.caffetteria.caffe_corretto.name": "Caffè Corretto",
+
+  "drinks.bibite.coca_cola.name": "Coca-Cola",
+  "drinks.bibite.aranciata_san_pellegrino.name": "San Pellegrino Orange Soda",
+  "drinks.bibite.limonata_san_pellegrino.name": "San Pellegrino Lemonade",
+  "drinks.bibite.acqua_naturale_1l.name": "Still Water 1L",
+  "drinks.bibite.acqua_frizzante_1l.name": "Sparkling Water 1L",
+
+  "drinks.birre.peroni_nastro_azzurro.name": "Peroni Nastro Azzurro",
+  "drinks.birre.moretti_alla_spina.name": "Moretti on Tap",
+  "drinks.birre.corona_extra.name": "Corona Extra",
+  "drinks.birre.birra_artigianale_ipa.name": "Craft IPA Beer",
+
+  "drinks.vini.chianti_classico_docg_calice.name": "Chianti Classico DOCG (glass)",
+  "drinks.vini.prosecco_di_valdobbiadene_docg.name": "Prosecco di Valdobbiadene DOCG",
+  "drinks.vini.pinot_grigio_delle_venezie_igt.name": "Pinot Grigio delle Venezie IGT",
+  "drinks.vini.sangiovese_di_toscana_igt.name": "Sangiovese di Toscana IGT",
+  "drinks.vini.limoncello_bicchierino.name": "Limoncello (shot)"
+}
