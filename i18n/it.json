@@ -51,14 +51,14 @@
   "menu.pizzas.pizza_prosciutto_e_funghi.name": "Pizza Prosciutto e Funghi",
   "menu.pizzas.pizza_prosciutto_e_funghi.desc": "Prosciutto cotto di alta qualità e funghi porcini con mozzarella",
 
-  "menu.antipasti.insalata_caprese.name": "Insalata Caprese",
-  "menu.antipasti.insalata_caprese.desc": "Mozzarella di bufala DOP, pomodori maturi, basilico fresco e olio extravergine toscano",
+  "menu.antipasti.insalata_mare_nostrum.name": "Cuore di Capri",
+  "menu.antipasti.insalata_mare_nostrum.desc": "Insalata Mista, Tonno pinne gialle, Pomodori datterini, Olive, Origano, Olio extravergine d’Oliva, Stria bianca",
 
-  "menu.antipasti.insalatona_della_casa.name": "Insalatona della Casa",
-  "menu.antipasti.insalatona_della_casa.desc": "Mix di insalate fresche, pomodorini, olive, mozzarella e prosciutto crudo",
+  "menu.antipasti.insalata_cuore_di_capri.name": "Insalatona della Casa",
+  "menu.antipasti.insalata_cuore_di_capri.desc": "Pomodoro a fette, Mozzarella Fiordilatte, Valeriana, Origano, Olio Extravergine d’Oliva, Stria bianca",
 
-  "menu.antipasti.caesar_salad.name": "Caesar Salad",
-  "menu.antipasti.caesar_salad.desc": "Lattuga romana, crostini dorati, parmigiano grattugiato e salsa Caesar",
+  "menu.antipasti.insalata_villa_toscana.name": "Villa Toscana",
+  "menu.antipasti.insalata_villa_toscana.desc": "Insalata Mista, Valeriana, Prosciutto corro abbrustolito, Champignon, Scaglie di grana, Crema di aceto balsamico, Olio Extravergine d’Oliva, Stria bianca",
 
   "menu.dolci.tiramisu.name": "Tiramisù",
   "menu.dolci.tiramisu.desc": "Il dolce italiano per eccellenza con savoiardi, mascarpone, caffè e cacao",

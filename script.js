@@ -132,9 +132,9 @@ const menuConfig = {
   ],
 
   antipasti: [
-    { key: 'insalata_caprese', image: 'img/insalata-caprese.jpg', price: '€9.00' },
-    { key: 'insalatona_della_casa', image: 'img/insalatona-mista.jpg', price: '€11.00' },
-    { key: 'caesar_salad', image: 'img/caesar-salad.jpg', price: '€10.50' }
+    { key: 'insalata_mare_nostrum', image: 'img/insalata-mare-nostrum.jpg', price: '€9.90' },
+    { key: 'insalata_cuore_di_capri', image: 'img/insalata-cuore-di-capri.jpg', price: '€9.90' },
+    { key: 'insalata_villa_toscana', image: 'img/insalata-villa-toscana.jpg', price: '€10.90' }
   ],
 
   dolci: [
