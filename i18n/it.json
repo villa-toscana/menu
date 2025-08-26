@@ -51,26 +51,33 @@
   "menu.pizzas.pizza_prosciutto_e_funghi.name": "Pizza Prosciutto e Funghi",
   "menu.pizzas.pizza_prosciutto_e_funghi.desc": "Prosciutto cotto di alta qualità e funghi porcini con mozzarella",
 
-  "menu.antipasti.insalata_mare_nostrum.name": "Cuore di Capri",
+  "menu.antipasti.insalata_mare_nostrum.name": "Mare Nostrum",
   "menu.antipasti.insalata_mare_nostrum.desc": "Insalata Mista, Tonno pinne gialle, Pomodori datterini, Olive, Origano, Olio extravergine d’Oliva, Stria bianca",
 
-  "menu.antipasti.insalata_cuore_di_capri.name": "Insalatona della Casa",
+  "menu.antipasti.insalata_cuore_di_capri.name": "Cuore di Capri",
   "menu.antipasti.insalata_cuore_di_capri.desc": "Pomodoro a fette, Mozzarella Fiordilatte, Valeriana, Origano, Olio Extravergine d’Oliva, Stria bianca",
 
   "menu.antipasti.insalata_villa_toscana.name": "Villa Toscana",
   "menu.antipasti.insalata_villa_toscana.desc": "Insalata Mista, Valeriana, Prosciutto corro abbrustolito, Champignon, Scaglie di grana, Crema di aceto balsamico, Olio Extravergine d’Oliva, Stria bianca",
 
+
+
+
+
+
   "menu.dolci.tiramisu.name": "Tiramisù",
   "menu.dolci.tiramisu.desc": "Il dolce italiano per eccellenza con savoiardi, mascarpone, caffè e cacao",
 
-  "menu.dolci.cannoli_siciliani.name": "Cannoli Siciliani",
-  "menu.dolci.cannoli_siciliani.desc": "Croccanti cialde ripiene di ricotta dolce e gocce di cioccolato",
+  "menu.dolci.panna_cotta.name": "Panna Cotta",
+  "menu.dolci.panna_cotta.desc": "Dolce cremoso al cucchiaio con salsa a scelta: caramello, pistacchio o frutti di bosco",
 
-  "menu.dolci.panna_cotta_ai_frutti_di_bosco.name": "Panna Cotta ai Frutti di Bosco",
-  "menu.dolci.panna_cotta_ai_frutti_di_bosco.desc": "Dolce cremoso con coulis di frutti di bosco freschi",
+  "menu.dolci.limone_ripieno_di_gelato.name": "Limone ripieno di gelato",
+  "menu.dolci.limone_ripieno_di_gelato.desc": "Scorza di limone ripiena di gelato al limone, fresca e profumata",
 
-  "menu.dolci.gelato_artigianale.name": "Gelato Artigianale",
-  "menu.dolci.gelato_artigianale.desc": "Tre palline di gelato artigianale (vaniglia, cioccolato, pistacchio)",
+
+
+
+  
 
   "drinks.caffetteria.espresso.name": "Espresso",
   "drinks.caffetteria.cappuccino.name": "Cappuccino",

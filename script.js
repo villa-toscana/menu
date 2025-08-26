@@ -139,9 +139,8 @@ const menuConfig = {
 
   dolci: [
     { key: 'tiramisu', image: 'img/tiramisu.jpg', price: '€6.00' },
-    { key: 'cannoli_siciliani', image: 'img/cannoli.jpg', price: '€5.50' },
-    { key: 'panna_cotta_ai_frutti_di_bosco', image: 'img/panna-cotta.jpg', price: '€5.00' },
-    { key: 'gelato_artigianale', image: 'img/gelato.jpg', price: '€4.50' }
+    { key: 'panna_cotta', image: 'img/panna-cotta.jpg', price: '€6.00' },
+    { key: 'limone_ripieno_di_gelato', image: 'img/limone-ripieno-di-gelato.jpg', price: '€5.50' },
   ]
 };
 
