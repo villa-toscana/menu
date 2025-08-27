@@ -180,11 +180,11 @@ const drinksConfig = {
   ],
 
   cocktail: [
-    { key: 'chianti_classico_docg_calice', price: '€5.00', desc: false },
-    { key: 'prosecco_di_valdobbiadene_docg', price: '€4.50', desc: false },
-    { key: 'pinot_grigio_delle_venezie_igt', price: '€4.00', desc: false },
-    { key: 'sangiovese_di_toscana_igt', price: '€4.50', desc: false },
-    { key: 'limoncello_bicchierino', price: '€3.00', desc: false }
+    { key: 'espresso', price: '€1.50', desc: false },
+    { key: 'cappuccino', price: '€2.00', desc: false },
+    { key: 'caffe_americano', price: '€2.50', desc: false },
+    { key: 'macchiato', price: '€1.80', desc: false },
+    { key: 'caffe_corretto', price: '€2.50', desc: false }
   ]
 
 };
