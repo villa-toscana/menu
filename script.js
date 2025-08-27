@@ -139,15 +139,8 @@ const menuConfig = {
 };
 
 const drinksConfig = {
-  caffetteria: [
-    { key: 'espresso', price: '€1.50', desc: false },
-    { key: 'cappuccino', price: '€2.00', desc: false },
-    { key: 'caffe_americano', price: '€2.50', desc: false },
-    { key: 'macchiato', price: '€1.80', desc: false },
-    { key: 'caffe_corretto', price: '€2.50', desc: false }
-  ],
 
-  bibite: [
+  acqua: [
     { key: 'coca_cola', price: '€3.00', desc: false },
     { key: 'aranciata_san_pellegrino', price: '€3.00', desc: false },
     { key: 'limonata_san_pellegrino', price: '€3.00', desc: false },
@@ -155,20 +148,45 @@ const drinksConfig = {
     { key: 'acqua_frizzante_1l', price: '€2.50', desc: false }
   ],
 
-  birre: [
+  soft_drinks: [
+    { key: 'coca_cola', price: '€3.00', desc: false },
+    { key: 'aranciata_san_pellegrino', price: '€3.00', desc: false },
+    { key: 'limonata_san_pellegrino', price: '€3.00', desc: false },
+    { key: 'acqua_naturale_1l', price: '€2.50', desc: false },
+    { key: 'acqua_frizzante_1l', price: '€2.50', desc: false }
+  ],
+
+  birra: [
     { key: 'peroni_nastro_azzurro', price: '€4.00', desc: false },
     { key: 'moretti_alla_spina', price: '€3.50', desc: false },
     { key: 'corona_extra', price: '€4.50', desc: false },
     { key: 'birra_artigianale_ipa', price: '€5.00', desc: false }
   ],
 
-  vini: [
+    caffè: [
+    { key: 'espresso', price: '€1.50', desc: false },
+    { key: 'cappuccino', price: '€2.00', desc: false },
+    { key: 'caffe_americano', price: '€2.50', desc: false },
+    { key: 'macchiato', price: '€1.80', desc: false },
+    { key: 'caffe_corretto', price: '€2.50', desc: false }
+  ],
+
+  liquori: [
+    { key: 'chianti_classico_docg_calice', price: '€5.00', desc: false },
+    { key: 'prosecco_di_valdobbiadene_docg', price: '€4.50', desc: false },
+    { key: 'pinot_grigio_delle_venezie_igt', price: '€4.00', desc: false },
+    { key: 'sangiovese_di_toscana_igt', price: '€4.50', desc: false },
+    { key: 'limoncello_bicchierino', price: '€3.00', desc: false }
+  ],
+
+  cocktail: [
     { key: 'chianti_classico_docg_calice', price: '€5.00', desc: false },
     { key: 'prosecco_di_valdobbiadene_docg', price: '€4.50', desc: false },
     { key: 'pinot_grigio_delle_venezie_igt', price: '€4.00', desc: false },
     { key: 'sangiovese_di_toscana_igt', price: '€4.50', desc: false },
     { key: 'limoncello_bicchierino', price: '€3.00', desc: false }
   ]
+
 };
 
 /* =========================
@@ -181,10 +199,12 @@ function renderAllLists() {
   renderMenuSectionGrid('dolci-grid', menuConfig.dolci, 'menu.dolci');
 
   // Drinks (liste semplici)
-  renderDrinksSection('caffetteria-list', drinksConfig.caffetteria, 'drinks.caffetteria');
-  renderDrinksSection('bibite-list', drinksConfig.bibite, 'drinks.bibite');
-  renderDrinksSection('birre-list', drinksConfig.birre, 'drinks.birre');
-  renderDrinksSection('vini-list', drinksConfig.vini, 'drinks.vini');
+  renderDrinksSection('acqua-list', drinksConfig.acqua, 'drinks.acqua');
+  renderDrinksSection('soft_drinks-list', drinksConfig.soft_drinks, 'drinks.soft_drinks');
+  renderDrinksSection('birra-list', drinksConfig.birra, 'drinks.birra');
+  renderDrinksSection('caffè-list', drinksConfig.caffè, 'drinks.caffè');
+  renderDrinksSection('liquori-list', drinksConfig.liquori, 'drinks.liquori');
+  renderDrinksSection('cocktail-list', drinksConfig.cocktail, 'drinks.cocktail');
 }
 
 function renderMenuSectionGrid(sectionId, items, prefix) {
