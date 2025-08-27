@@ -18,10 +18,12 @@
 
   "sections.drinks.title": "Bevande",
   "sections.drinks.subtitle": "Selezione di vini, birre e bevande per accompagnare i nostri piatti",
-  "sections.drinks.caffetteria.title": "Caffetteria",
-  "sections.drinks.bibite.title": "Bibite e Acqua",
-  "sections.drinks.birre.title": "Birre",
-  "sections.drinks.vini.title": "Vini e Liquori",
+  "sections.drinks.acqua.title": "Acqua",
+  "sections.drinks.soft_drinks.title": "Soft Drinks",
+  "sections.drinks.birra.title": "Birre",
+  "sections.drinks.caffè.title": "Caffè",
+  "sections.drinks.liquori.title": "Liquori e Distillati",
+  "sections.drinks.cocktail.title": "Cocktail",
 
   "footer.brand": "Villa Toscana",
   "footer.thanks": "Grazie per aver scelto la nostra cucina italiana autentica",
