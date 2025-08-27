@@ -121,14 +121,8 @@ function applyTranslations() {
    ========================= */
 const menuConfig = {
   pizzas: [
-    { key: 'pizza_margherita', image: 'img/pizza-margherita.jpg', price: '€12.00' },
-    { key: 'pizza_napoletana', image: 'img/pizza-napoletana.jpg', price: '€14.00' },
-    { key: 'pizza_quattro_stagioni', image: 'img/pizza-quattro-stagioni.jpg', price: '€16.00' },
-    { key: 'pizza_diavola', image: 'img/pizza-diavola.jpg', price: '€15.00' },
-    { key: 'pizza_capricciosa', image: 'img/pizza-capricciosa.jpg', price: '€15.50' },
-    { key: 'pizza_quattro_formaggi', image: 'img/pizza-quattro-formaggi.jpg', price: '€14.50' },
-    { key: 'pizza_marinara', image: 'img/pizza-marinara.jpg', price: '€10.00' },
-    { key: 'pizza_prosciutto_e_funghi', image: 'img/pizza-prosciutto-funghi.jpg', price: '€14.00' }
+    { key: 'menu_pranzo', image: 'img/menu-pranzo.jpg', price: '€12.00' },
+    { key: 'menu_cena', image: 'img/menu-cena.jpg', price: '€14.00' },
   ],
 
   antipasti: [

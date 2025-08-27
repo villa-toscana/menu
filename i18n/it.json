@@ -7,7 +7,7 @@
   "hero.title": "Autentico Ristorante Italiano",
   "hero.subtitle": "Tradizione e Sapore dal Cuore della Toscana",
 
-  "sections.menu.pizzas.title": "Le Nostre Pizze",
+  "sections.menu.pizzas.title": "Il Nostro Menu",
   "sections.menu.pizzas.subtitle": "Pizze preparate con impasto a lievitazione naturale e ingredienti di prima qualità",
 
   "sections.menu.antipasti.title": "Antipasti e Insalate",
@@ -27,29 +27,21 @@
   "footer.thanks": "Grazie per aver scelto la nostra cucina italiana autentica",
   "footer.signature": "🇮🇹 Made with amore in Italy",
 
-  "menu.pizzas.pizza_margherita.name": "Pizza Margherita",
-  "menu.pizzas.pizza_margherita.desc": "La classica pizza italiana con pomodoro San Marzano, mozzarella di bufala DOP e basilico fresco",
 
-  "menu.pizzas.pizza_napoletana.name": "Pizza Napoletana",
-  "menu.pizzas.pizza_napoletana.desc": "Autentica pizza napoletana con bordi alti, pomodoro, mozzarella di bufala e basilico",
 
-  "menu.pizzas.pizza_quattro_stagioni.name": "Pizza Quattro Stagioni",
-  "menu.pizzas.pizza_quattro_stagioni.desc": "Prosciutto cotto, funghi porcini, carciofi e olive nere con mozzarella",
 
-  "menu.pizzas.pizza_diavola.name": "Pizza Diavola",
-  "menu.pizzas.pizza_diavola.desc": "Salame piccante calabrese, mozzarella, pomodoro e peperoncini freschi",
 
-  "menu.pizzas.pizza_capricciosa.name": "Pizza Capricciosa",
-  "menu.pizzas.pizza_capricciosa.desc": "Prosciutto cotto, funghi, carciofi, olive e mozzarella",
 
-  "menu.pizzas.pizza_quattro_formaggi.name": "Pizza Quattro Formaggi",
-  "menu.pizzas.pizza_quattro_formaggi.desc": "Mozzarella, gorgonzola DOP, parmigiano reggiano e fontina valdostana",
+  "menu.pizzas.menu_pranzo.name": "Pizza Margherita",
+  "menu.pizzas.menu_pranzo.desc": "La classica pizza italiana con pomodoro San Marzano, mozzarella di bufala DOP e basilico fresco",
 
-  "menu.pizzas.pizza_marinara.name": "Pizza Marinara",
-  "menu.pizzas.pizza_marinara.desc": "La più semplice e tradizionale: pomodoro, aglio, origano e olio extravergine",
+  "menu.pizzas.menu_cena.name": "Pizza Napoletana",
+  "menu.pizzas.menu_cena.desc": "Autentica pizza napoletana con bordi alti, pomodoro, mozzarella di bufala e basilico",
 
-  "menu.pizzas.pizza_prosciutto_e_funghi.name": "Pizza Prosciutto e Funghi",
-  "menu.pizzas.pizza_prosciutto_e_funghi.desc": "Prosciutto cotto di alta qualità e funghi porcini con mozzarella",
+
+
+
+
 
   "menu.antipasti.insalata_mare_nostrum.name": "Mare Nostrum",
   "menu.antipasti.insalata_mare_nostrum.desc": "Insalata Mista, Tonno pinne gialle, Pomodori datterini, Olive, Origano, Olio extravergine d’Oliva, Stria bianca",
