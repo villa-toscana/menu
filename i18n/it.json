@@ -71,26 +71,42 @@
 
   
 
-  "drinks.caffetteria.espresso.name": "Espresso",
-  "drinks.caffetteria.cappuccino.name": "Cappuccino",
-  "drinks.caffetteria.caffe_americano.name": "Caffè Americano",
-  "drinks.caffetteria.macchiato.name": "Macchiato",
-  "drinks.caffetteria.caffe_corretto.name": "Caffè Corretto",
 
-  "drinks.bibite.coca_cola.name": "Coca Cola",
-  "drinks.bibite.aranciata_san_pellegrino.name": "Aranciata San Pellegrino",
-  "drinks.bibite.limonata_san_pellegrino.name": "Limonata San Pellegrino",
-  "drinks.bibite.acqua_naturale_1l.name": "Acqua Naturale 1L",
-  "drinks.bibite.acqua_frizzante_1l.name": "Acqua Frizzante 1L",
 
-  "drinks.birre.peroni_nastro_azzurro.name": "Peroni Nastro Azzurro",
-  "drinks.birre.moretti_alla_spina.name": "Moretti alla Spina",
-  "drinks.birre.corona_extra.name": "Corona Extra",
-  "drinks.birre.birra_artigianale_ipa.name": "Birra Artigianale IPA",
 
-  "drinks.vini.chianti_classico_docg_calice.name": "Chianti Classico DOCG (calice)",
-  "drinks.vini.prosecco_di_valdobbiadene_docg.name": "Prosecco di Valdobbiadene DOCG",
-  "drinks.vini.pinot_grigio_delle_venezie_igt.name": "Pinot Grigio delle Venezie IGT",
-  "drinks.vini.sangiovese_di_toscana_igt.name": "Sangiovese di Toscana IGT",
-  "drinks.vini.limoncello_bicchierino.name": "Limoncello (bicchierino)"
+
+  "drinks.acqua.coca_cola.name": "Coca Cola",
+  "drinks.acqua.aranciata_san_pellegrino.name": "Aranciata San Pellegrino",
+  "drinks.acqua.limonata_san_pellegrino.name": "Limonata San Pellegrino",
+  "drinks.acqua.acqua_naturale_1l.name": "Acqua Naturale 1L",
+  "drinks.acqua.acqua_frizzante_1l.name": "Acqua Frizzante 1L",
+
+  "drinks.soft_drinks.coca_cola.name": "Coca Cola",
+  "drinks.soft_drinks.aranciata_san_pellegrino.name": "Aranciata San Pellegrino",
+  "drinks.soft_drinks.limonata_san_pellegrino.name": "Limonata San Pellegrino",
+  "drinks.soft_drinks.acqua_naturale_1l.name": "Acqua Naturale 1L",
+  "drinks.soft_drinks.acqua_frizzante_1l.name": "Acqua Frizzante 1L",
+
+  "drinks.birra.peroni_nastro_azzurro.name": "Peroni Nastro Azzurro",
+  "drinks.birra.moretti_alla_spina.name": "Moretti alla Spina",
+  "drinks.birra.corona_extra.name": "Corona Extra",
+  "drinks.birra.birra_artigianale_ipa.name": "Birra Artigianale IPA",
+
+  "drinks.caffè.espresso.name": "Espresso",
+  "drinks.caffè.cappuccino.name": "Cappuccino",
+  "drinks.caffè.caffe_americano.name": "Caffè Americano",
+  "drinks.caffè.macchiato.name": "Macchiato",
+  "drinks.caffè.caffe_corretto.name": "Caffè Corretto",
+
+  "drinks.liquori.chianti_classico_docg_calice.name": "Chianti Classico DOCG (calice)",
+  "drinks.liquori.prosecco_di_valdobbiadene_docg.name": "Prosecco di Valdobbiadene DOCG",
+  "drinks.liquori.pinot_grigio_delle_venezie_igt.name": "Pinot Grigio delle Venezie IGT",
+  "drinks.liquori.sangiovese_di_toscana_igt.name": "Sangiovese di Toscana IGT",
+  "drinks.liquori.limoncello_bicchierino.name": "Limoncello (bicchierino)",
+
+  "drinks.cocktail.espresso.name": "Espresso",
+  "drinks.cocktail.cappuccino.name": "Cappuccino",
+  "drinks.cocktail.caffe_americano.name": "Caffè Americano",
+  "drinks.cocktail.macchiato.name": "Macchiato",
+  "drinks.cocktail.caffe_corretto.name": "Caffè Corretto",
 }
