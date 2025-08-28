@@ -170,7 +170,7 @@ const drinksConfig = {
     { key: 'doppio_espresso', price: '€2.20', desc: false },
     { key: 'decaffeinato', price: '€1.30', desc: false },
     { key: 'cappuccino', price: '€3.00', desc: false },
-    { key: 'caffè_corretto_sambuca ', price: '€4.00', desc: false }
+    { key: 'caffè_corretto_sambuca', price: '€4.00', desc: false }
   ],
 
   liquori: [
