@@ -1,7 +1,7 @@
 /* =========================
    i18n CORE
    ========================= */
-const SUPPORTED_LANGS = ['it', 'en', 'pt', 'es', 'fr']; // le 5 lingue che hai scelto
+const SUPPORTED_LANGS = ['it', 'en', 'pt', 'de', 'fr']; // le 5 lingue che hai scelto
 const DEFAULT_LANG = 'it';
 const I18N_BASE = './i18n';
 
