@@ -164,7 +164,7 @@ body {
 .menu-card-name {
     font-size: 1.125rem;
     font-weight: 700;
-    color: #1e293b;
+    color: #3b1e1e;
     margin-bottom: 0.5rem;
 }
 
@@ -208,7 +208,7 @@ body {
     background: white;
     padding: 1.5rem;
     border-radius: 0.5rem;
-    box-shadow: 0 4px 20px rgba(175, 30, 30, 0.15);
+    box-shadow: 0 4px 20px rgba(139, 113, 113, 0.15);
 }
 
 .drink-header {
@@ -251,7 +251,7 @@ body {
 }
 
 .drink-name {
-    color: #1e293b;
+    color: #3b1e1e;
     font-weight: 500;
 }
 
