@@ -28,7 +28,7 @@ body {
 .header {
     text-align: center;
     padding: 3rem 1rem;
-    background: linear-gradient(180deg, #faf8f5, #f1f5f9);
+    background: linear-gradient(180deg, #faf8f5, #f1f9f2);
 }
 
 .title {
@@ -50,7 +50,7 @@ body {
 
 .tagline {
     font-size: 1.125rem;
-    color: #00931B;
+    background: linear-gradient(135deg, #00931B, #007F1B);
     font-weight: 500;
 }
 
@@ -80,14 +80,14 @@ body {
     background: white;
     padding: 1rem;
     border-radius: 9999px;
-    box-shadow: 0 4px 20px rgba(30, 175, 49, 0.15);
+    box-shadow: 0 4px 20px rgba(175, 30, 30, 0.15);
     margin-bottom: 1rem;
 }
 
 .section-icon {
     width: 2rem;
     height: 2rem;
-    color: #B50000;
+    color: #00931B;
     margin-left: 1rem;
 }
 
@@ -143,7 +143,7 @@ body {
 
 .menu-card:hover {
     transform: translateY(-4px) scale(1.02);
-    box-shadow: 0 4px 20px rgba(8, 234, 98, 0.25);
+    box-shadow: 0 4px 20px rgba(234, 8, 8, 0.25);
 }
 
 .menu-card-image {
@@ -208,7 +208,7 @@ body {
     background: white;
     padding: 1.5rem;
     border-radius: 0.5rem;
-    box-shadow: 0 4px 20px rgba(30, 175, 83, 0.15);
+    box-shadow: 0 4px 20px rgba(175, 30, 30, 0.15);
 }
 
 .drink-header {
@@ -220,7 +220,7 @@ body {
 .drink-icon {
     width: 1.5rem;
     height: 1.5rem;
-    color: #B50000;
+    color: #00931B;
     margin-bottom: 1rem;
 }
 
@@ -258,7 +258,7 @@ body {
 .drink-price {
     color: #1e40af;
     font-weight: 700;
-    background: linear-gradient(135deg, #00931B, #007F1B);
+    background: linear-gradient(135deg, #B50000, #A20000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -286,7 +286,7 @@ body {
 }
 
 .footer-small {
-    color: #00931B;
+    background: linear-gradient(135deg, #00931B, #007F1B);
     font-size: 0.875rem;
 }
 
