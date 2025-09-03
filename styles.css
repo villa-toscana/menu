@@ -50,7 +50,7 @@ body {
 
 .tagline {
     font-size: 1.125rem;
-    background: linear-gradient(135deg, #00931B, #007F1B);
+    color: #006C1B;
     font-weight: 500;
 }
 
@@ -87,7 +87,7 @@ body {
 .section-icon {
     width: 2rem;
     height: 2rem;
-    color: #00931B;
+    color: #B50000;
     margin-left: 1rem;
 }
 
@@ -136,7 +136,7 @@ body {
     background: white;
     border-radius: 0.5rem;
     overflow: hidden;
-    box-shadow: 0 4px 20px rgba(30, 64, 175, 0.15);
+    box-shadow: 0 4px 20px rgba(139, 113, 113, 0.15);
     transition: all 0.3s ease;
     transform: translateY(0);
 }
@@ -286,7 +286,7 @@ body {
 }
 
 .footer-small {
-    background: linear-gradient(135deg, #00931B, #007F1B);
+    color: #006C1B;
     font-size: 0.875rem;
 }
 
