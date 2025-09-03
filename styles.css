@@ -34,7 +34,7 @@ body {
 .title {
     font-size: 4rem;
     font-weight: 700;
-    background: linear-gradient(135deg, #1e40af, #1e3a8a);
+    background: linear-gradient(135deg, #B50000, #A20000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -44,13 +44,13 @@ body {
 
 .subtitle {
     font-size: 1.5rem;
-    color: #64748b;
+    color: #8b6464; 
     margin-bottom: 0.5rem;
 }
 
 .tagline {
     font-size: 1.125rem;
-    color: #1e40af;
+    color: #00931B;
     font-weight: 500;
 }
 
@@ -80,26 +80,26 @@ body {
     background: white;
     padding: 1rem;
     border-radius: 9999px;
-    box-shadow: 0 4px 20px rgba(30, 64, 175, 0.15);
+    box-shadow: 0 4px 20px rgba(30, 175, 49, 0.15);
     margin-bottom: 1rem;
 }
 
 .section-icon {
     width: 2rem;
     height: 2rem;
-    color: #1e40af;
+    color: #B50000;
     margin-left: 1rem;
 }
 
 .section-title {
     font-size: 2rem;
     font-weight: 700;
-    color: #1e40af;
+    color: #B50000;
     margin-right: 1rem;
 }
 
 .section-description {
-    color: #64748b;
+    color: #8b6464;
     max-width: 40rem;
     margin: 0 auto;
     padding-left: 1rem;
@@ -143,7 +143,7 @@ body {
 
 .menu-card:hover {
     transform: translateY(-4px) scale(1.02);
-    box-shadow: 0 4px 20px rgba(234, 179, 8, 0.25);
+    box-shadow: 0 4px 20px rgba(8, 234, 98, 0.25);
 }
 
 .menu-card-image {
@@ -169,7 +169,7 @@ body {
 }
 
 .menu-card-description {
-    color: #64748b;
+    color: #8b6464;
     font-size: 0.875rem;
     line-height: 1.5;
     margin-bottom: 0.75rem;
@@ -179,7 +179,7 @@ body {
     text-align: right;
     font-size: 1.25rem;
     font-weight: 700;
-    background: linear-gradient(135deg, #eab308, #ca8a04);
+    background: linear-gradient(135deg, #00931B, #007F1B);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -208,7 +208,7 @@ body {
     background: white;
     padding: 1.5rem;
     border-radius: 0.5rem;
-    box-shadow: 0 4px 20px rgba(30, 64, 175, 0.15);
+    box-shadow: 0 4px 20px rgba(30, 175, 83, 0.15);
 }
 
 .drink-header {
@@ -220,16 +220,16 @@ body {
 .drink-icon {
     width: 1.5rem;
     height: 1.5rem;
-    color: #1e40af;
+    color: #B50000;
     margin-bottom: 1rem;
 }
 
 .drink-title {
     font-size: 1.25rem;
     font-weight: 700;
-    color: #1e40af;
+    color: #B50000;
     margin-bottom: 1rem;
-    border-bottom: 2px solid #eab308;
+    border-bottom: 2px solid #00931B;
 }
 
 .drink-list {
@@ -243,7 +243,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 0.5rem 0;
-    border-bottom: 1px solid #e2e8f0;
+    border-bottom: 1px solid #f0e3e2;
 }
 
 .drink-item:last-child {
@@ -258,7 +258,7 @@ body {
 .drink-price {
     color: #1e40af;
     font-weight: 700;
-    background: linear-gradient(135deg, #eab308, #ca8a04);
+    background: linear-gradient(135deg, #00931B, #007F1B);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -268,25 +268,25 @@ body {
 .footer {
     text-align: center;
     padding: 2rem 1rem;
-    border-top: 1px solid #e2e8f0;
+    border-top: 1px solid #f0e3e2;
 }
 
 .footer-title {
-    color: #1e40af;
+    color: #B50000;
     font-weight: 700;
     font-size: 1.125rem;
     margin-bottom: 0.5rem;
 }
 
 .footer-text {
-    color: #64748b;
+    color: #8b6464;
     margin-bottom: 0.5rem;
     padding-left: 1rem;
     padding-right: 1rem;
 }
 
 .footer-small {
-    color: #64748b;
+    color: #00931B;
     font-size: 0.875rem;
 }
 

@@ -121,8 +121,8 @@ function applyTranslations() {
    ========================= */
 const menuConfig = {
   pizzas: [
-    { key: 'menu_pranzo', image: 'img/menu-pranzo.jpg', price: '€12.00' },
-    { key: 'menu_cena', image: 'img/menu-cena.jpg', price: '€14.00' },
+    { key: 'menu_pranzo', image: 'img/menu-pranzo.jpg', price: '€13.90' },
+    { key: 'menu_cena', image: 'img/menu-cena.jpg', price: '€17.90' },
   ],
 
   antipasti: [
