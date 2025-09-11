@@ -20,8 +20,8 @@ body {
 /* Container */
 .container {
     max-width: 1200px;
-    /*margin: 0 auto;*/
-    /*padding: 0 1rem;*/
+    margin: 0 auto;
+    padding: 0 1rem;
 }
 
 /* Header */
@@ -52,8 +52,8 @@ body {
 /* Main Content */
 .main-content {
     max-width: 1400px;
-    /*margin: 0 auto;*/
-    /*padding: 0 1rem;*/
+    margin: 0 auto;
+    padding: 0 1rem;
 }
 
 /* Sections */
@@ -451,7 +451,7 @@ body {
   aspect-ratio: 800 / 1143;
   object-fit: contain;
   border-radius: 5px;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
 }
 
 /* Riduciamo il “peso” visivo del vecchio header */
