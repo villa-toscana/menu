@@ -433,3 +433,39 @@ body {
     border-right: none;
   }
 }
+
+/* Accessibile ma invisibile visivamente */
+.sr-only {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0,0,0,0);
+  white-space: nowrap; border: 0;
+}
+
+/* Immagine hero responsive e centrata */
+.hero-img {
+  display: block;
+  width: 100%;
+  max-width: 420px;               /* mobile */
+  aspect-ratio: 800 / 1143;
+  object-fit: contain;
+  border-radius: 12px;
+  margin: 0 auto;
+}
+
+/* Riduciamo il “peso” visivo del vecchio header */
+.header {
+  text-align: center;
+  padding: 2rem 1rem;             /* prima era 3rem */
+  background: linear-gradient(180deg, #faf8f5, #f1f9f2);
+}
+
+@media (min-width: 768px) {
+  .hero-img { max-width: 480px; } /* tablet/desktop */
+}
+
+/* (opzionale) togli il grande spacing dei titoli che non usiamo più */
+.title, .subtitle { display: none; }
+
+

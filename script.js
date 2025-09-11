@@ -46,6 +46,9 @@ async function setLang(lang) {
   // Testi statici
   applyTranslations();
 
+  // aggiorna l'immagine hero in base alla lingua
+  updateHeroImage(lang);
+
   // <html lang="">
   document.documentElement.setAttribute('lang', lang);
 
@@ -114,6 +117,36 @@ function applyTranslations() {
     }
   });
 }
+
+
+
+// --- HERO IMAGE MULTILINGUA ---
+const HERO_FALLBACK_LANG = 'it';
+
+function updateHeroImage(lang) {
+  const img = document.getElementById('hero-image');
+  if (!img) return;
+
+  // imposta src in base alla lingua
+  const path = `img/img_${lang}.png`;
+  img.onerror = null;         // reset handler
+  img.src = path;
+
+  // fallback se manca il file
+  img.onerror = () => {
+    if (lang !== HERO_FALLBACK_LANG) {
+      img.src = `img/img_${HERO_FALLBACK_LANG}.png`;
+    }
+  };
+
+  // aggiorna l'alt con i testi i18n correnti
+  const brand = t('brand.name') || 'Villa Toscana';
+  const hero  = t('hero.title') || 'Real Italian Experience';
+  img.alt = `${brand} — ${hero}`;
+}
+
+
+
 
 /* =========================
    DATI MENU (solo chiavi + image + price)

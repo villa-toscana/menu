@@ -24,10 +24,27 @@
     <div class="app">
         <!-- Header -->
         <header class="header">
-
+        <!--
             <div class="container">
                 <h1 class="title" data-i18n="brand.name">Villa Toscana</h1>
                 <p class="subtitle" data-i18n="hero.title">Real Italian Experience</p>
+            </div>
+        -->
+            
+            <div class="container">
+                <!-- Manteniamo i testi per SEO/accessibilità ma invisibili -->
+                <h1 class="sr-only" data-i18n="brand.name">Villa Toscana</h1>
+                <p class="sr-only" data-i18n="hero.title">Real Italian Experience</p>
+
+                <!-- Immagine hero multilingua -->
+                <img
+                    id="hero-image"
+                    class="hero-img"
+                    src="img/img_it.png"
+                    width="800" height="1143"
+                    alt="Villa Toscana — Real Italian Experience"
+                    loading="eager" fetchpriority="high" decoding="async"
+                />
             </div>
         </header>
 
