@@ -1,97 +1,126 @@
 {
-  "meta.title": "Villa Toscana - Auténtico Restaurante Italiano",
-  "meta.description": "Villa Toscana - Auténtico restaurante italiano con pizzas, antipastos y postres tradicionales",
+  "meta.title": "Villa Toscana - Experiencia Italiana Auténtica",
+  "meta.description": "Villa Toscana - Experiencia Italiana Auténtica",
 
   "brand.name": "Villa Toscana",
+  "hero.title": "Experiencia Italiana Auténtica",
 
-  "hero.title": "Auténtico Restaurante Italiano",
-  "hero.subtitle": "Tradición y sabor desde el corazón de la Toscana",
-
-  "sections.menu.pizzas.title": "Nuestras Pizzas",
+  "sections.menu.pizzas.title": "Nuestro Menú",
   "sections.menu.pizzas.subtitle": "Pizzas elaboradas con masa de fermentación natural e ingredientes de primera calidad",
 
-  "sections.menu.antipasti.title": "Entrantes e Ensaladas",
-  "sections.menu.antipasti.subtitle": "Ensaladas frescas y entrantes preparados con ingredientes locales de temporada",
+  "sections.menu.antipasti.title": "Ensaladas",
+  "sections.menu.antipasti.subtitle": "Ensaladas italianas frescas con ingredientes gourmet",
 
-  "sections.menu.dolci.title": "Postres Tradicionales",
-  "sections.menu.dolci.subtitle": "Postres italianos elaborados según las recetas tradicionales de la nonna",
+  "sections.menu.dolci.title": "Postres",
+  "sections.menu.dolci.subtitle": "Postres italianos tradicionales preparados según las recetas de la abuela",
 
   "sections.drinks.title": "Bebidas",
-  "sections.drinks.subtitle": "Selección de vinos, cervezas y bebidas para acompañar nuestros platos",
-  "sections.drinks.caffetteria.title": "Cafetería",
-  "sections.drinks.bibite.title": "Refrescos y Agua",
-  "sections.drinks.birre.title": "Cervezas",
-  "sections.drinks.vini.title": "Vinos y Licores",
+  "sections.drinks.subtitle": "Selección de cervezas y bebidas para acompañar nuestros platos",
+  "sections.drinks.acqua.title": "Agua",
+  "sections.drinks.soft_drinks.title": "Refrescos",
+  "sections.drinks.birra.title": "Cervezas",
+  "sections.drinks.caffè.title": "Café",
+  "sections.drinks.liquori.title": "Licores y Destilados",
+  "sections.drinks.cocktail.title": "Cócteles",
 
   "footer.brand": "Villa Toscana",
   "footer.thanks": "Gracias por elegir nuestra auténtica cocina italiana",
-  "footer.signature": "🇮🇹 Hecho con amor en Italia",
+  "footer.signature": "🇮🇹 Hecho con amore en Italia",
 
-  "menu.pizzas.pizza_margherita.name": "Pizza Margarita",
-  "menu.pizzas.pizza_margherita.desc": "La clásica pizza italiana con tomate San Marzano, mozzarella de búfala DOP y albahaca fresca",
 
-  "menu.pizzas.pizza_napoletana.name": "Pizza Napolitana",
-  "menu.pizzas.pizza_napoletana.desc": "Auténtica pizza napolitana con bordes altos, tomate, mozzarella de búfala y albahaca",
 
-  "menu.pizzas.pizza_quattro_stagioni.name": "Pizza Cuatro Estaciones",
-  "menu.pizzas.pizza_quattro_stagioni.desc": "Jamón cocido, setas porcini, alcachofas y aceitunas negras con mozzarella",
 
-  "menu.pizzas.pizza_diavola.name": "Pizza Diavola",
-  "menu.pizzas.pizza_diavola.desc": "Salami picante calabrés, mozzarella, tomate y chiles frescos",
 
-  "menu.pizzas.pizza_capricciosa.name": "Pizza Capricciosa",
-  "menu.pizzas.pizza_capricciosa.desc": "Jamón cocido, setas, alcachofas, aceitunas y mozzarella",
 
-  "menu.pizzas.pizza_quattro_formaggi.name": "Pizza Cuatro Quesos",
-  "menu.pizzas.pizza_quattro_formaggi.desc": "Mozzarella, gorgonzola DOP, parmigiano reggiano y fontina",
+  "menu.pizzas.menu_pranzo.name": "Menú Almuerzo",
+  "menu.pizzas.menu_pranzo.desc": "Pizza ilimitada servida en la mesa, rápida y sin esperas",
 
-  "menu.pizzas.pizza_marinara.name": "Pizza Marinara",
-  "menu.pizzas.pizza_marinara.desc": "La más simple y tradicional: tomate, ajo, orégano y aceite de oliva virgen extra",
+  "menu.pizzas.menu_cena.name": "Menú Cena",
+  "menu.pizzas.menu_cena.desc": "Giro pizza con infinitos sabores para compartir durante toda la noche",
 
-  "menu.pizzas.pizza_prosciutto_e_funghi.name": "Pizza Jamón y Champiñones",
-  "menu.pizzas.pizza_prosciutto_e_funghi.desc": "Jamón cocido de alta calidad y setas porcini con mozzarella",
 
-  "menu.antipasti.insalata_caprese.name": "Ensalada Caprese",
-  "menu.antipasti.insalata_caprese.desc": "Mozzarella de búfala DOP, tomates maduros, albahaca fresca y aceite de oliva virgen extra toscano",
 
-  "menu.antipasti.insalatona_della_casa.name": "Ensalada de la Casa",
-  "menu.antipasti.insalatona_della_casa.desc": "Mezcla de ensaladas frescas, tomatitos cherry, aceitunas, mozzarella y prosciutto crudo",
 
-  "menu.antipasti.caesar_salad.name": "Ensalada César",
-  "menu.antipasti.caesar_salad.desc": "Lechuga romana, picatostes dorados, parmesano rallado y salsa César",
 
-  "menu.dolci.tiramisu.name": "Tiramisú",
-  "menu.dolci.tiramisu.desc": "El postre italiano por excelencia con bizcochos, mascarpone, café y cacao",
 
-  "menu.dolci.cannoli_siciliani.name": "Cannoli Sicilianos",
-  "menu.dolci.cannoli_siciliani.desc": "Crujientes canutillos rellenos de ricotta dulce y virutas de chocolate",
+  "menu.antipasti.insalata_mare_nostrum.name": "Mare Nostrum",
+  "menu.antipasti.insalata_mare_nostrum.desc": "Ensalada mixta, Atún de aleta amarilla, Tomates cherry, Aceitunas, Orégano, Aceite de Oliva Virgen Extra, Stria Bianca",
 
-  "menu.dolci.panna_cotta_ai_frutti_di_bosco.name": "Panna Cotta con Frutos del Bosque",
-  "menu.dolci.panna_cotta_ai_frutti_di_bosco.desc": "Postre cremoso con coulis de frutos del bosque frescos",
+  "menu.antipasti.insalata_cuore_di_capri.name": "Cuore di Capri",
+  "menu.antipasti.insalata_cuore_di_capri.desc": "Rodajas de tomate, Mozzarella Fior di Latte, Canónigos, Orégano, Aceite de Oliva Virgen Extra, Stria Bianca",
 
-  "menu.dolci.gelato_artigianale.name": "Helado Artesanal",
-  "menu.dolci.gelato_artigianale.desc": "Tres bolas de helado artesanal (vainilla, chocolate, pistacho)",
+  "menu.antipasti.insalata_villa_toscana.name": "Villa Toscana",
+  "menu.antipasti.insalata_villa_toscana.desc": "Ensalada mixta, Canónigos, Jamón cocido a la parrilla, Champiñones, Virutas de parmesano, Crema de vinagre balsámico, Aceite de Oliva Virgen Extra, Stria Bianca",
 
-  "drinks.caffetteria.espresso.name": "Espresso",
-  "drinks.caffetteria.cappuccino.name": "Cappuccino",
-  "drinks.caffetteria.caffe_americano.name": "Café Americano",
-  "drinks.caffetteria.macchiato.name": "Macchiato",
-  "drinks.caffetteria.caffe_corretto.name": "Café Corretto",
 
-  "drinks.bibite.coca_cola.name": "Coca-Cola",
-  "drinks.bibite.aranciata_san_pellegrino.name": "San Pellegrino Naranja",
-  "drinks.bibite.limonata_san_pellegrino.name": "San Pellegrino Limón",
-  "drinks.bibite.acqua_naturale_1l.name": "Agua sin gas 1L",
-  "drinks.bibite.acqua_frizzante_1l.name": "Agua con gas 1L",
 
-  "drinks.birre.peroni_nastro_azzurro.name": "Peroni Nastro Azzurro",
-  "drinks.birre.moretti_alla_spina.name": "Moretti de barril",
-  "drinks.birre.corona_extra.name": "Corona Extra",
-  "drinks.birre.birra_artigianale_ipa.name": "Cerveza Artesanal IPA",
 
-  "drinks.vini.chianti_classico_docg_calice.name": "Chianti Classico DOCG (copa)",
-  "drinks.vini.prosecco_di_valdobbiadene_docg.name": "Prosecco di Valdobbiadene DOCG",
-  "drinks.vini.pinot_grigio_delle_venezie_igt.name": "Pinot Grigio delle Venezie IGT",
-  "drinks.vini.sangiovese_di_toscana_igt.name": "Sangiovese di Toscana IGT",
-  "drinks.vini.limoncello_bicchierino.name": "Limoncello (chupito)"
+
+
+  "menu.dolci.tiramisu.name": "Tiramisù",
+  "menu.dolci.tiramisu.desc": "El postre italiano por excelencia con bizcochos de soletilla, mascarpone, café y cacao",
+
+  "menu.dolci.panna_cotta.name": "Panna Cotta",
+  "menu.dolci.panna_cotta.desc": "Postre cremoso de cuchara con cobertura a elegir: Caramelo, Pistacho o Frutos rojos",
+
+  "menu.dolci.limone_ripieno_di_gelato.name": "Limón relleno de helado",
+  "menu.dolci.limone_ripieno_di_gelato.desc": "Limón entero relleno de cremoso helado de limón",
+
+
+
+
+  
+
+
+
+
+
+  "drinks.acqua.acqua_minerale_naturale.name": "Agua mineral natural 0,75l",
+  "drinks.acqua.acqua_minerale_gasata.name": "Agua mineral con gas 0,75l",
+  "drinks.acqua.acqua_tonica.name": "Agua tónica",
+
+  "drinks.soft_drinks.pepsi.name": "Pepsi",
+  "drinks.soft_drinks.brisa_mela.name": "Brisa Manzana",
+  "drinks.soft_drinks.brisa_maracuja.name": "Brisa Maracuyá",
+  "drinks.soft_drinks.succo_alla_pesca.name": "Zumo de melocotón",
+  "drinks.soft_drinks.ice_the_pesca.name": "Té helado de melocotón",
+  "drinks.soft_drinks.ice_the_limone.name": "Té helado de limón",
+  "drinks.soft_drinks.7up.name": "7up",
+
+  "drinks.birra.coral_30.name": "Coral 0,30cl",
+  "drinks.birra.coral_50.name": "Coral 0,50cl",
+  "drinks.birra.wiesse_banana_30.name": "Wiesse plátano 0,30cl",
+  "drinks.birra.wiesse_banana_50.name": "Wiesse plátano 0,50cl",
+  "drinks.birra.moretti.name": "Peroni (botella)",
+  "drinks.birra.coral_sidra.name": "Coral Sidra (botella)",
+
+  "drinks.caffè.espresso.name": "Espresso",
+  "drinks.caffè.doppio_espresso.name": "Doble Espresso",
+  "drinks.caffè.decaffeinato.name": "Descafeinado",
+  "drinks.caffè.cappuccino.name": "Capuchino",
+  "drinks.caffè.caffè_corretto_sambuca.name": "Café con Sambuca",
+
+  "drinks.liquori.baileys_carolans.name": "Baileys / Carolans",
+  "drinks.liquori.campari.name": "Campari",
+  "drinks.liquori.sambuca.name": "Sambuca",
+  "drinks.liquori.jagermeister.name": "Jägermeister",
+  "drinks.liquori.limoncello.name": "Limoncello",
+  "drinks.liquori.black_lable.name": "Black Label (Whisky)",
+  "drinks.liquori.gordon.name": "Gordon (Ginebra)",
+  "drinks.liquori.absolut.name": "Absolut (Vodka)",
+  "drinks.liquori.martini_bianco.name": "Martini Bianco (Ron blanco)",
+  "drinks.liquori.agricola_da_madeira_970_riserva.name": "Agricola da Madeira 970 Riserva (Ron)",
+  "drinks.liquori.tres_sombreros_silver.name": "Tres Sombreros Silver (Tequila)",
+
+  "drinks.cocktail.aperol_spritz.name": "Aperol Spritz",
+  "drinks.cocktail.espresso_martini.name": "Espresso Martini",
+  "drinks.cocktail.mojito.name": "Mojito",
+  "drinks.cocktail.limoncello_spritz.name": "Limoncello Spritz",
+  "drinks.cocktail.cuba_libre.name": "Cuba Libre",
+  "drinks.cocktail.vodka_tonic.name": "Vodka Tonic",
+  "drinks.cocktail.gin_tonic.name": "Gin Tonic",
+  "drinks.cocktail.bellini.name": "Bellini",
+  "drinks.cocktail.negroni.name": "Negroni",
+  "drinks.cocktail.margarita.name": "Margarita",
+  "drinks.cocktail.caipirinha.name": "Caipirinha"
 }

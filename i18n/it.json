@@ -1,25 +1,23 @@
 {
-  "meta.title": "Villa Toscana - Autentico Ristorante Italiano",
-  "meta.description": "Villa Toscana - Autentico ristorante italiano con pizze, antipasti e dolci tradizionali",
+  "meta.title": "Villa Toscana - Real Italian Experience",
+  "meta.description": "Villa Toscana - Real Italian Experience",
 
   "brand.name": "Villa Toscana",
-
-  "hero.title": "Autentico Ristorante Italiano",
-  "hero.subtitle": "Tradizione e Sapore dal Cuore della Toscana",
+  "hero.title": "Real Italian Experience",
 
   "sections.menu.pizzas.title": "Il Nostro Menu",
   "sections.menu.pizzas.subtitle": "Pizze preparate con impasto a lievitazione naturale e ingredienti di prima qualità",
 
-  "sections.menu.antipasti.title": "Antipasti e Insalate",
-  "sections.menu.antipasti.subtitle": "Fresche insalate e antipasti preparati con ingredienti locali di stagione",
+  "sections.menu.antipasti.title": "Insalate",
+  "sections.menu.antipasti.subtitle": "Insalate fresche Italiane con ingredienti gourmet",
 
   "sections.menu.dolci.title": "Dolci",
-  "sections.menu.dolci.subtitle": "Dolci italiani preparati secondo le ricette tradizionali della nonna",
+  "sections.menu.dolci.subtitle": "Dolci Italiani preparati secondo le ricette tradizionali della nonna",
 
   "sections.drinks.title": "Bevande",
-  "sections.drinks.subtitle": "Selezione di vini, birre e bevande per accompagnare i nostri piatti",
+  "sections.drinks.subtitle": "Selezione di birre e bevande per accompagnare i nostri piatti",
   "sections.drinks.acqua.title": "Acqua",
-  "sections.drinks.soft_drinks.title": "Soft Drinks",
+  "sections.drinks.soft_drinks.title": "SOFT DRINKS",
   "sections.drinks.birra.title": "Birre",
   "sections.drinks.caffè.title": "Caffè",
   "sections.drinks.liquori.title": "Liquori e Distillati",
@@ -46,13 +44,13 @@
 
 
   "menu.antipasti.insalata_mare_nostrum.name": "Mare Nostrum",
-  "menu.antipasti.insalata_mare_nostrum.desc": "Insalata Mista, Tonno pinne gialle, Pomodori datterini, Olive, Origano, Olio extravergine d’Oliva, Stria bianca",
+  "menu.antipasti.insalata_mare_nostrum.desc": "Insalata mista, Tonno pinne gialle, Pomodorini datterini, Olive, Origano, Olio Extravergine d’Oliva, Stria Bianca",
 
   "menu.antipasti.insalata_cuore_di_capri.name": "Cuore di Capri",
-  "menu.antipasti.insalata_cuore_di_capri.desc": "Pomodoro a fette, Mozzarella Fiordilatte, Valeriana, Origano, Olio Extravergine d’Oliva, Stria bianca",
+  "menu.antipasti.insalata_cuore_di_capri.desc": "Pomodoro a fette, Mozzarella Fior di Latte, Valeriana, Origano, Olio Extravergine d’Oliva, Stria bianca",
 
   "menu.antipasti.insalata_villa_toscana.name": "Villa Toscana",
-  "menu.antipasti.insalata_villa_toscana.desc": "Insalata Mista, Valeriana, Prosciutto corro abbrustolito, Champignon, Scaglie di grana, Crema di aceto balsamico, Olio Extravergine d’Oliva, Stria bianca",
+  "menu.antipasti.insalata_villa_toscana.desc": "Insalata mista, Valeriana, Prosciutto cotto abbrustolito, Champignon; scaglie di grana, Crema di aceto balsamico, Olio Extravergine d’Oliva, Stria bianca",
 
 
 
@@ -60,13 +58,13 @@
 
 
   "menu.dolci.tiramisu.name": "Tiramisù",
-  "menu.dolci.tiramisu.desc": "Il dolce italiano per eccellenza con savoiardi, mascarpone, caffè e cacao",
+  "menu.dolci.tiramisu.desc": "Il dolce Italiano per eccellenza con savoiardi, mascarpone, caffè e cacao",
 
   "menu.dolci.panna_cotta.name": "Panna Cotta",
-  "menu.dolci.panna_cotta.desc": "Dolce cremoso al cucchiaio con salsa a scelta: caramello, pistacchio o frutti di bosco",
+  "menu.dolci.panna_cotta.desc": "Dolce Cremoso al cucchiaio con topping a scelta: Caramello, pistacchio o frutti di bosco",
 
   "menu.dolci.limone_ripieno_di_gelato.name": "Limone ripieno di gelato",
-  "menu.dolci.limone_ripieno_di_gelato.desc": "Scorza di limone ripiena di gelato al limone, fresca e profumata",
+  "menu.dolci.limone_ripieno_di_gelato.desc": "Limone intero, ripieno di cremoso gelato al limone",
 
 
 
@@ -93,7 +91,7 @@
   "drinks.birra.coral_50.name": "Coral 0.50cl",
   "drinks.birra.wiesse_banana_30.name": "Wiesse banana 0.30cl",
   "drinks.birra.wiesse_banana_50.name": "Wiesse banana 0.50cl",
-  "drinks.birra.moretti.name": "Moretti (bottiglia)",
+  "drinks.birra.moretti.name": "Peroni (bottiglia)",
   "drinks.birra.coral_sidra.name": "Coral Sidra (bottiglia)",
 
   "drinks.caffè.espresso.name": "Espresso",

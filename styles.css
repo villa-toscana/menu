@@ -44,15 +44,10 @@ body {
 
 .subtitle {
     font-size: 1.5rem;
-    color: #8b6464; 
+    color: #006C1B;
     margin-bottom: 0.5rem;
 }
 
-.tagline {
-    font-size: 1.125rem;
-    color: #006C1B;
-    font-weight: 500;
-}
 
 /* Main Content */
 .main-content {

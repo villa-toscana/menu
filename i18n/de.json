@@ -1,44 +1,42 @@
 {
-  "meta.title": "Villa Toscana - Autentico Ristorante Italiano",
-  "meta.description": "Villa Toscana - Autentico ristorante italiano con pizze, antipasti e dolci tradizionali",
+  "meta.title": "Villa Toscana - Echte italienische Erfahrung",
+  "meta.description": "Villa Toscana - Echte italienische Erfahrung",
 
   "brand.name": "Villa Toscana",
+  "hero.title": "Echte italienische Erfahrung",
 
-  "hero.title": "Prova Tedesco",
-  "hero.subtitle": "Tradizione e Sapore dal Cuore della Toscana",
+  "sections.menu.pizzas.title": "Unsere Speisekarte",
+  "sections.menu.pizzas.subtitle": "Pizzen mit natürlich gereiftem Teig und Zutaten höchster Qualität",
 
-  "sections.menu.pizzas.title": "Il Nostro Menu",
-  "sections.menu.pizzas.subtitle": "Pizze preparate con impasto a lievitazione naturale e ingredienti di prima qualità",
+  "sections.menu.antipasti.title": "Salate",
+  "sections.menu.antipasti.subtitle": "Frische italienische Salate mit Gourmet-Zutaten",
 
-  "sections.menu.antipasti.title": "Antipasti e Insalate",
-  "sections.menu.antipasti.subtitle": "Fresche insalate e antipasti preparati con ingredienti locali di stagione",
+  "sections.menu.dolci.title": "Desserts",
+  "sections.menu.dolci.subtitle": "Traditionelle italienische Desserts nach Omas Rezepten zubereitet",
 
-  "sections.menu.dolci.title": "Dolci",
-  "sections.menu.dolci.subtitle": "Dolci italiani preparati secondo le ricette tradizionali della nonna",
-
-  "sections.drinks.title": "Bevande",
-  "sections.drinks.subtitle": "Selezione di vini, birre e bevande per accompagnare i nostri piatti",
-  "sections.drinks.acqua.title": "Acqua",
-  "sections.drinks.soft_drinks.title": "Soft Drinks",
-  "sections.drinks.birra.title": "Birre",
-  "sections.drinks.caffè.title": "Caffè",
-  "sections.drinks.liquori.title": "Liquori e Distillati",
-  "sections.drinks.cocktail.title": "Cocktail",
+  "sections.drinks.title": "Getränke",
+  "sections.drinks.subtitle": "Auswahl an Bieren und Getränken zur Begleitung unserer Gerichte",
+  "sections.drinks.acqua.title": "Wasser",
+  "sections.drinks.soft_drinks.title": "Softdrinks",
+  "sections.drinks.birra.title": "Biere",
+  "sections.drinks.caffè.title": "Kaffee",
+  "sections.drinks.liquori.title": "Liköre & Spirituosen",
+  "sections.drinks.cocktail.title": "Cocktails",
 
   "footer.brand": "Villa Toscana",
-  "footer.thanks": "Grazie per aver scelto la nostra cucina italiana autentica",
-  "footer.signature": "🇮🇹 Made with amore in Italy",
+  "footer.thanks": "Danke, dass Sie unsere authentische italienische Küche gewählt haben",
+  "footer.signature": "🇮🇹 Mit Amore in Italien gemacht",
 
 
 
 
 
 
-  "menu.pizzas.menu_pranzo.name": "Menù Pranzo",
-  "menu.pizzas.menu_pranzo.desc": "Pizza illimitata servita al tavolo, veloce e senza attese",
+  "menu.pizzas.menu_pranzo.name": "Mittagsmenü",
+  "menu.pizzas.menu_pranzo.desc": "Unbegrenzte Pizza am Tisch serviert – schnell und ohne Warten",
 
-  "menu.pizzas.menu_cena.name": "Menù Cena",
-  "menu.pizzas.menu_cena.desc": "Giropizza con gusti infiniti da condividere tutta la sera",
+  "menu.pizzas.menu_cena.name": "Abendmenü",
+  "menu.pizzas.menu_cena.desc": "Pizza-Rundlauf mit unendlichen Geschmacksrichtungen zum Teilen den ganzen Abend über",
 
 
 
@@ -46,13 +44,13 @@
 
 
   "menu.antipasti.insalata_mare_nostrum.name": "Mare Nostrum",
-  "menu.antipasti.insalata_mare_nostrum.desc": "Insalata Mista, Tonno pinne gialle, Pomodori datterini, Olive, Origano, Olio extravergine d’Oliva, Stria bianca",
+  "menu.antipasti.insalata_mare_nostrum.desc": "Gemischter Salat, Gelbflossen-Thunfisch, Kirschtomaten, Oliven, Oregano, Natives Olivenöl Extra, Stria Bianca",
 
   "menu.antipasti.insalata_cuore_di_capri.name": "Cuore di Capri",
-  "menu.antipasti.insalata_cuore_di_capri.desc": "Pomodoro a fette, Mozzarella Fiordilatte, Valeriana, Origano, Olio Extravergine d’Oliva, Stria bianca",
+  "menu.antipasti.insalata_cuore_di_capri.desc": "Tomatenscheiben, Fior di Latte Mozzarella, Feldsalat, Oregano, Natives Olivenöl Extra, Stria Bianca",
 
   "menu.antipasti.insalata_villa_toscana.name": "Villa Toscana",
-  "menu.antipasti.insalata_villa_toscana.desc": "Insalata Mista, Valeriana, Prosciutto corro abbrustolito, Champignon, Scaglie di grana, Crema di aceto balsamico, Olio Extravergine d’Oliva, Stria bianca",
+  "menu.antipasti.insalata_villa_toscana.desc": "Gemischter Salat, Feldsalat, Gegrillter Kochschinken, Champignons, Parmesanspäne, Balsamico-Creme, Natives Olivenöl Extra, Stria Bianca",
 
 
 
@@ -60,13 +58,13 @@
 
 
   "menu.dolci.tiramisu.name": "Tiramisù",
-  "menu.dolci.tiramisu.desc": "Il dolce italiano per eccellenza con savoiardi, mascarpone, caffè e cacao",
+  "menu.dolci.tiramisu.desc": "Das italienische Dessert schlechthin mit Löffelbiskuit, Mascarpone, Kaffee und Kakao",
 
   "menu.dolci.panna_cotta.name": "Panna Cotta",
-  "menu.dolci.panna_cotta.desc": "Dolce cremoso al cucchiaio con salsa a scelta: caramello, pistacchio o frutti di bosco",
+  "menu.dolci.panna_cotta.desc": "Cremiges Dessert zum Löffeln mit einer Auswahl an Toppings: Karamell, Pistazie oder Waldfrüchte",
 
-  "menu.dolci.limone_ripieno_di_gelato.name": "Limone ripieno di gelato",
-  "menu.dolci.limone_ripieno_di_gelato.desc": "Scorza di limone ripiena di gelato al limone, fresca e profumata",
+  "menu.dolci.limone_ripieno_di_gelato.name": "Mit Eis gefüllte Zitrone",
+  "menu.dolci.limone_ripieno_di_gelato.desc": "Ganze Zitrone, gefüllt mit cremigem Zitroneneis",
 
 
 
@@ -77,40 +75,40 @@
 
 
 
-  "drinks.acqua.acqua_minerale_naturale.name": "Acqua minerale naturale 0.75l",
-  "drinks.acqua.acqua_minerale_gasata.name": "Acqua minerale gasata 0.75l",
-  "drinks.acqua.acqua_tonica.name": "Acqua tonica",
+  "drinks.acqua.acqua_minerale_naturale.name": "Stilles Mineralwasser 0,75l",
+  "drinks.acqua.acqua_minerale_gasata.name": "Sprudelndes Mineralwasser 0,75l",
+  "drinks.acqua.acqua_tonica.name": "Tonic Water",
 
   "drinks.soft_drinks.pepsi.name": "Pepsi",
-  "drinks.soft_drinks.brisa_mela.name": "Brisa Mela",
+  "drinks.soft_drinks.brisa_mela.name": "Brisa Apfel",
   "drinks.soft_drinks.brisa_maracuja.name": "Brisa Maracuja",
-  "drinks.soft_drinks.succo_alla_pesca.name": "Succo alla pesca",
-  "drinks.soft_drinks.ice_the_pesca.name": "Ice The Pesca",
-  "drinks.soft_drinks.ice_the_limone.name": "Ice The Limone",
+  "drinks.soft_drinks.succo_alla_pesca.name": "Pfirsichsaft",
+  "drinks.soft_drinks.ice_the_pesca.name": "Pfirsich-Eistee",
+  "drinks.soft_drinks.ice_the_limone.name": "Zitronen-Eistee",
   "drinks.soft_drinks.7up.name": "7up",
 
-  "drinks.birra.coral_30.name": "Coral 0.30cl",
-  "drinks.birra.coral_50.name": "Coral 0.50cl",
-  "drinks.birra.wiesse_banana_30.name": "Wiesse banana 0.30cl",
-  "drinks.birra.wiesse_banana_50.name": "Wiesse banana 0.50cl",
-  "drinks.birra.moretti.name": "Moretti (bottiglia)",
-  "drinks.birra.coral_sidra.name": "Coral Sidra (bottiglia)",
+  "drinks.birra.coral_30.name": "Coral 0,30cl",
+  "drinks.birra.coral_50.name": "Coral 0,50cl",
+  "drinks.birra.wiesse_banana_30.name": "Wiesse Banane 0,30cl",
+  "drinks.birra.wiesse_banana_50.name": "Wiesse Banane 0,50cl",
+  "drinks.birra.moretti.name": "Peroni (Flasche)",
+  "drinks.birra.coral_sidra.name": "Coral Sidra (Flasche)",
 
   "drinks.caffè.espresso.name": "Espresso",
-  "drinks.caffè.doppio_espresso.name": "Doppio Espresso",
-  "drinks.caffè.decaffeinato.name": "Decaffeinato",
+  "drinks.caffè.doppio_espresso.name": "Doppelter Espresso",
+  "drinks.caffè.decaffeinato.name": "Entkoffeiniert",
   "drinks.caffè.cappuccino.name": "Cappuccino",
-  "drinks.caffè.caffè_corretto_sambuca.name": "Caffè corretto Sambuca",
+  "drinks.caffè.caffè_corretto_sambuca.name": "Espresso mit Sambuca",
 
   "drinks.liquori.baileys_carolans.name": "Baileys / Carolans",
   "drinks.liquori.campari.name": "Campari",
   "drinks.liquori.sambuca.name": "Sambuca",
-  "drinks.liquori.jagermeister.name": "Jagermeister",
+  "drinks.liquori.jagermeister.name": "Jägermeister",
   "drinks.liquori.limoncello.name": "Limoncello",
-  "drinks.liquori.black_lable.name": "Black Lable (Whisky)",
+  "drinks.liquori.black_lable.name": "Black Label (Whisky)",
   "drinks.liquori.gordon.name": "Gordon (Gin)",
-  "drinks.liquori.absolut.name": "Absolut (Vodka)",
-  "drinks.liquori.martini_bianco.name": "Martini Bianco (Rum Bianco)",
+  "drinks.liquori.absolut.name": "Absolut (Wodka)",
+  "drinks.liquori.martini_bianco.name": "Martini Bianco (Weißer Rum)",
   "drinks.liquori.agricola_da_madeira_970_riserva.name": "Agricola da Madeira 970 Riserva (Rum)",
   "drinks.liquori.tres_sombreros_silver.name": "Tres Sombreros Silver (Tequila)",
 
@@ -119,7 +117,7 @@
   "drinks.cocktail.mojito.name": "Mojito",
   "drinks.cocktail.limoncello_spritz.name": "Limoncello Spritz",
   "drinks.cocktail.cuba_libre.name": "Cuba Libre",
-  "drinks.cocktail.vodka_tonic.name": "Vodka Tonic",
+  "drinks.cocktail.vodka_tonic.name": "Wodka Tonic",
   "drinks.cocktail.gin_tonic.name": "Gin Tonic",
   "drinks.cocktail.bellini.name": "Bellini",
   "drinks.cocktail.negroni.name": "Negroni",
