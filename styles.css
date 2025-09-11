@@ -445,7 +445,7 @@ body {
 
 /* Immagine hero responsive e centrata */
 .hero-img {
-  /*display: block;*/
+  display: block;
   width: 100%;
   max-width: 420px;               /* mobile */
   aspect-ratio: 800 / 1143;
