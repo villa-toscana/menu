@@ -27,7 +27,7 @@ body {
 /* Header */
 .header {
     text-align: center;
-    padding: 3rem 1rem;
+    /*padding: 3rem 1rem;*/
     background: linear-gradient(180deg, #faf8f5, #f1f9f2);
 }
 
@@ -450,7 +450,7 @@ body {
   max-width: 420px;               /* mobile */
   aspect-ratio: 800 / 1143;
   object-fit: contain;
-  border-radius: 12px;
+  border-radius: 5px;
   margin: 0 auto;
 }
 
