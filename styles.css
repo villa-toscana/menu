@@ -445,13 +445,13 @@ body {
 
 /* Immagine hero responsive e centrata */
 .hero-img {
-  display: inline-block;
+  display: block;
   width: 100%;
   max-width: 420px;               /* mobile */
   aspect-ratio: 800 / 1143;
-  object-fit: contain;
+  height: auto;
   border-radius: 5px;
-  /*margin: 0 auto;*/
+  margin: 0 auto;
 }
 
 /* Riduciamo il “peso” visivo del vecchio header */
