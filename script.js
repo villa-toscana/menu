@@ -194,7 +194,7 @@ const drinksConfig = {
     { key: 'coral_50', price: '€4.50', desc: false },
     { key: 'wiesse_banana_30', price: '€3.00', desc: false },
     { key: 'wiesse_banana_50', price: '€5.00', desc: false },
-    { key: 'moretti', price: '€3.00', desc: false },
+    { key: 'moretti', price: '€4.00', desc: false },
     { key: 'coral_sidra', price: '€3.00', desc: false }
   ],
 
