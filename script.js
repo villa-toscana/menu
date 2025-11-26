@@ -159,9 +159,9 @@ const menuConfig = {
   ],
 
   antipasti: [
-    { key: 'insalata_mare_nostrum', image: 'img/insalata-mare-nostrum.jpg', price: '€9.90' },
-    { key: 'insalata_cuore_di_capri', image: 'img/insalata-cuore-di-capri.jpg', price: '€9.90' },
-    { key: 'insalata_villa_toscana', image: 'img/insalata-villa-toscana.jpg', price: '€10.90' }
+    { key: 'insalata_mare_nostrum', image: 'img/insalata-mare-nostrum.jpg', price: '€11.90' },
+    { key: 'insalata_cuore_di_capri', image: 'img/insalata-cuore-di-capri.jpg', price: '€10.90' },
+    { key: 'insalata_villa_toscana', image: 'img/insalata-villa-toscana.jpg', price: '€12.90' }
   ],
 
   dolci: [
@@ -180,28 +180,28 @@ const drinksConfig = {
   ],
 
   soft_drinks: [
-    { key: 'pepsi', price: '€2.40', desc: false },
-    { key: 'brisa_mela', price: '€2.40', desc: false },
-    { key: 'brisa_maracuja', price: '€2.40', desc: false },
-    { key: 'succo_alla_pesca', price: '€2.40', desc: false },
-    { key: 'ice_the_pesca', price: '€2.40', desc: false },
-    { key: 'ice_the_limone', price: '€2.40', desc: false },
-    { key: '7up', price: '€2.40', desc: false }
+    { key: 'pepsi', price: '€2.50', desc: false },
+    { key: 'brisa_mela', price: '€2.50', desc: false },
+    { key: 'brisa_maracuja', price: '€2.50', desc: false },
+    { key: 'succo_alla_pesca', price: '€2.50', desc: false },
+    { key: 'ice_the_pesca', price: '€2.50', desc: false },
+    { key: 'ice_the_limone', price: '€2.50', desc: false },
+    { key: '7up', price: '€2.50', desc: false }
   ],
 
   birra: [
-    { key: 'coral_30', price: '€2.50', desc: false },
+    { key: 'coral_30', price: '€2.70', desc: false },
     { key: 'coral_50', price: '€4.50', desc: false },
     { key: 'wiesse_banana_30', price: '€3.00', desc: false },
     { key: 'wiesse_banana_50', price: '€5.00', desc: false },
-    { key: 'moretti', price: '€4.00', desc: false },
+    { key: 'Peroni', price: '€5.00', desc: false },
     { key: 'coral_sidra', price: '€3.00', desc: false }
   ],
 
     caffè: [
-    { key: 'espresso', price: '€1.20', desc: false },
-    { key: 'doppio_espresso', price: '€2.20', desc: false },
-    { key: 'decaffeinato', price: '€1.30', desc: false },
+    { key: 'espresso', price: '€1.30', desc: false },
+    { key: 'doppio_espresso', price: '€2.30', desc: false },
+    { key: 'decaffeinato', price: '€1.40', desc: false },
     { key: 'cappuccino', price: '€3.00', desc: false },
     { key: 'caffè_corretto_sambuca', price: '€4.00', desc: false }
   ],
@@ -211,7 +211,7 @@ const drinksConfig = {
     { key: 'campari', price: '€4.50', desc: false },
     { key: 'sambuca', price: '€3.50', desc: false },
     { key: 'jagermeister', price: '€4.00', desc: false },
-    { key: 'limoncello', price: '€4.00', desc: false },
+    { key: 'limoncello', price: '€4.50', desc: false },
     { key: 'black_lable', price: '€5.50', desc: false },
     { key: 'gordon', price: '€4.00', desc: false },
     { key: 'absolut', price: '€4.00', desc: false },
@@ -221,17 +221,17 @@ const drinksConfig = {
   ],
 
   cocktail: [
-    { key: 'aperol_spritz', price: '€6.00', desc: false },
-    { key: 'espresso_martini', price: '€6.00', desc: false },
-    { key: 'mojito', price: '€5.00', desc: false },
-    { key: 'limoncello_spritz', price: '€6.50', desc: false },
-    { key: 'cuba_libre', price: '€5.00', desc: false },
-    { key: 'vodka_tonic', price: '€5.00', desc: false },
+    { key: 'aperol_spritz', price: '€7.00', desc: false },
+    { key: 'espresso_martini', price: '€7.00', desc: false },
+    { key: 'mojito', price: '€6.50', desc: false },
+    { key: 'limoncello_spritz', price: '€7.50', desc: false },
+    { key: 'cuba_libre', price: '€6.00', desc: false },
+    { key: 'vodka_tonic', price: '€6.00', desc: false },
     { key: 'gin_tonic', price: '€7.00', desc: false },
-    { key: 'bellini', price: '€5.00', desc: false },
-    { key: 'negroni', price: '€6.00', desc: false },
-    { key: 'margarita', price: '€6.00', desc: false },
-    { key: 'caipirinha', price: '€5.00', desc: false }
+    { key: 'bellini', price: '€6.00', desc: false },
+    { key: 'negroni', price: '€7.00', desc: false },
+    { key: 'margarita', price: '€7.00', desc: false },
+    { key: 'caipirinha', price: '€6.00', desc: false }
   ]
 
 };
